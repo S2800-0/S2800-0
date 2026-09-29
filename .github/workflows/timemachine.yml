@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Time Machine
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
   push:
     branches: [main]
@@ -14,12 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4FC3F7&color_dots=#0d1b2a,#003b6f,#1565c0,#1e90ff,#4fc3f7
-
+          python-version: "3.11"
+      - run: python scripts/generate_timemachine.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT_FILE: dist/time-machine.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
