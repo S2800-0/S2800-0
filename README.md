@@ -8,7 +8,6 @@
 
 ---
 
-### 📜 Sheet 1 — The Inventor's Notes
 - 🕰️ **Currently building:** autonomous SRE agents with policy-as-code governance
 - 🌀 **Specialty:** real-time streaming and end-to-end data pipelines
 - 🔭 **Exploring:** Bayesian decision-making, verifiable AI, cloud analytics
@@ -16,7 +15,6 @@
 
 ---
 
-### ⚙️ Sheet 2 — Instruments
 
 <div align="center">
 
@@ -41,7 +39,6 @@
 
 ---
 
-### 🗺️ Sheet 3 — Voyages Across Spacetime
 
 | Voyage | Log |
 |---|---|
@@ -54,7 +51,6 @@
 
 ---
 
-### 📊 Sheet 4 — Measurements
 
 <div align="center">
 
@@ -67,7 +63,6 @@
 
 ---
 
-### 🕰️ Sheet 5 — The Machine Collects My Commits
 
 <div align="center">
 
