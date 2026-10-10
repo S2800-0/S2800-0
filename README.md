@@ -12,17 +12,8 @@
 
 </div>
 
----
 
-- 🕰️ **Currently building:** AI incident agents that know when *not* to act: Bayesian evidence, value of information, and policy-as-code (research with Nourseen Tarek)
-- 🌀 **Specialty:** real-time streaming and end-to-end data pipelines, from Kafka to the warehouse
-- 🔭 **Exploring:** decision theory for AI agents, verifiable AI, cloud analytics
-- 🎓 **Studying:** Artificial Intelligence at Alryada University. Graduation project: [ICVSP](https://github.com/S2800-0/icvsp-prototype), a trust-aware cooperative vehicle safety platform
-- ✉️ **Open to:** collaboration on data, AI and infrastructure projects
-
----
-
-### 🧰 Languages and tools
+###  Languages and tools
 
 <div align="center">
 
@@ -64,10 +55,10 @@
 
 | Voyage | Log |
 |---|---|
-| 🛡️ [**Incident Commander**](https://github.com/S2800-0/incident-commander) | An AI SRE agent that decides when *not* to act: Bayesian probe selection, an OPA policy gate outside the agent, reversible actions only, and a Merkle + Ed25519 signed evidence chain. [🎤 Watch the talk](https://incident-commander-talk.vercel.app) |
-| 🚗 [**ICVSP prototype**](https://github.com/S2800-0/icvsp-prototype) | Graduation project prototype: a camera-based pothole and speed-bump detector for a trust-aware cooperative vehicle safety platform. |
+| [**Incident Commander**](https://github.com/S2800-0/incident-commander) | An AI SRE agent that decides when *not* to act: Bayesian probe selection, an OPA policy gate outside the agent, reversible actions only, and a Merkle + Ed25519 signed evidence chain. [🎤 Watch the talk](https://incident-commander-talk.vercel.app) |
+| [**ICVSP prototype**](https://github.com/S2800-0/icvsp-prototype) | Graduation project prototype: a camera-based pothole and speed-bump detector for a trust-aware cooperative vehicle safety platform. |
 
-### 🌊 Streaming and real-time
+###  Streaming and real-time
 
 | Project | What it does |
 |---|---|
@@ -76,7 +67,7 @@
 | [**ecommerce-nifi-spark-hive**](https://github.com/S2800-0/ecommerce-nifi-spark-hive) | MariaDB → NiFi → HDFS → Spark → Hive on a local Docker big-data cluster |
 | [**spark-structured-streaming-hdfs**](https://github.com/S2800-0/spark-structured-streaming-hdfs) | Structured Streaming over an HDFS folder, aggregating sales by category |
 
-### ☁️ Cloud, lakehouse and warehousing
+###  Cloud, lakehouse and warehousing
 
 | Project | What it does |
 |---|---|
@@ -87,7 +78,7 @@
 | [**covid-fabric-analytics**](https://github.com/S2800-0/covid-fabric-analytics) | OneLake, a PySpark star schema, a Warehouse and Power BI on Microsoft Fabric |
 | [**crypto-market-data-etl**](https://github.com/S2800-0/crypto-market-data-etl) | Live Binance and CoinGecko prices with data-quality and anomaly checks into PostgreSQL |
 
-### 🔭 Orchestration, CI and observability
+### Orchestration, CI and observability
 
 | Project | What it does |
 |---|---|
@@ -96,7 +87,7 @@
 | [**pipeline-observability-playbook**](https://github.com/S2800-0/pipeline-observability-playbook) | Observability design for a streaming pipeline, with a simulation that tests every alert |
 | [**pyspark-ci-github-actions**](https://github.com/S2800-0/pyspark-ci-github-actions) | PySpark unit tests run on every pull request with GitHub Actions |
 
-### 🧠 Machine learning and AI
+### Machine learning and AI
 
 | Project | What it does |
 |---|---|
@@ -105,7 +96,7 @@
 | [**sign-language-bridge**](https://github.com/S2800-0/sign-language-bridge) | Bridging text to sign, and sign to text |
 | [**finwise-ai-finance-manager**](https://github.com/S2800-0/finwise-ai-finance-manager) | Flask and ML personal finance manager with predictions and an AI assistant |
 
-### 🧩 Apps and more
+### Apps and more
 
 | Project | What it does |
 |---|---|
