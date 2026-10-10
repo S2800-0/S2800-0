@@ -14,7 +14,7 @@
 
 ---
 
-- 🕰️ **Currently building:** AI incident agents that know when *not* to act: Bayesian evidence, value of information, and policy-as-code (research with Nourseen Tarek, paper in progress)
+- 🕰️ **Currently building:** AI incident agents that know when *not* to act: Bayesian evidence, value of information, and policy-as-code (research with Nourseen Tarek)
 - 🌀 **Specialty:** real-time streaming and end-to-end data pipelines, from Kafka to the warehouse
 - 🔭 **Exploring:** decision theory for AI agents, verifiable AI, cloud analytics
 - 🎓 **Studying:** Artificial Intelligence at Alryada University. Graduation project: [ICVSP](https://github.com/S2800-0/icvsp-prototype), a trust-aware cooperative vehicle safety platform
