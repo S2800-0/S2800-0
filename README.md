@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:faf6ee,100:e8dcc4&height=200&section=header&text=Shahesta%20Salama&fontSize=58&fontColor=3b2c1a&fontAlignY=40&desc=Data%20%26%20AI%20Engineer%20%C2%B7%20Autonomous%20Systems%20Builder&descAlignY=62&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:faf6ee,100:e8dcc4&height=200&section=header&text=Shahesta%20Salama&fontSize=58&fontColor=3b2c1a&fontAlignY=40&desc=Data%20and%20AI%20Engineer%20%C2%B7%20Autonomous%20Systems%20Builder&descAlignY=62&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=24&pause=1400&color=5A4630&center=true&vCenter=true&width=700&lines=Traveling+through+time+and+data+streams...;Bigger+on+the+inside.;Building+agents+that+know+when+not+to+act.;Kafka+%E2%86%92+Spark+%E2%86%92+Insight.;Allons-y!)](https://git.io/typing-svg)
 
