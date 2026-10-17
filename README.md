@@ -77,6 +77,5 @@
 
 *"Time is relative. Commits are forever."*
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:e8dcc4,100:faf6ee&height=90&section=footer)
 
 </div>
