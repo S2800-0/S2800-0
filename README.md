@@ -58,54 +58,7 @@
 | [**Incident Commander**](https://github.com/S2800-0/incident-commander) | An AI SRE agent that decides when *not* to act: Bayesian probe selection, an OPA policy gate outside the agent, reversible actions only, and a Merkle + Ed25519 signed evidence chain. [🎤 Watch the talk](https://incident-commander-talk.vercel.app) |
 | [**ICVSP prototype**](https://github.com/S2800-0/icvsp-prototype) | Graduation project prototype: a camera-based pothole and speed-bump detector for a trust-aware cooperative vehicle safety platform. |
 
-###  Streaming and real-time
 
-| Project | What it does |
-|---|---|
-| [**kafka-spark-hive-ecommerce-pipeline**](https://github.com/S2800-0/kafka-spark-hive-ecommerce-pipeline) | Kafka → Spark Structured Streaming → HDFS Parquet → Hive, replacing a 12-hour nightly batch with 10-second micro-batches |
-| [**flink-ecommerce-realtime-pipeline**](https://github.com/S2800-0/flink-ecommerce-realtime-pipeline) | Rolling 5-minute revenue per brand with Flink SQL watermarks and tumbling windows |
-| [**ecommerce-nifi-spark-hive**](https://github.com/S2800-0/ecommerce-nifi-spark-hive) | MariaDB → NiFi → HDFS → Spark → Hive on a local Docker big-data cluster |
-| [**spark-structured-streaming-hdfs**](https://github.com/S2800-0/spark-structured-streaming-hdfs) | Structured Streaming over an HDFS folder, aggregating sales by category |
-
-###  Cloud, lakehouse and warehousing
-
-| Project | What it does |
-|---|---|
-| [**ecommerce-data-warehouse-aws**](https://github.com/S2800-0/ecommerce-data-warehouse-aws) | Star-schema warehouse: Lambda ingestion, PySpark on Glue, Parquet in S3, Athena |
-| [**ecommerce-pyspark-glue-pipeline**](https://github.com/S2800-0/ecommerce-pyspark-glue-pipeline) | A 72-step PySpark ETL over 12 tables, tested locally and run on real AWS Glue |
-| [**uber-nyc-medallion-pipeline**](https://github.com/S2800-0/uber-nyc-medallion-pipeline) | Bronze → Silver → Gold on Uber NYC pickups, batch and streaming paths unified |
-| [**delta-lake-order-management**](https://github.com/S2800-0/delta-lake-order-management) | Upserts, schema changes and recovering earlier states with Delta Lake |
-| [**covid-fabric-analytics**](https://github.com/S2800-0/covid-fabric-analytics) | OneLake, a PySpark star schema, a Warehouse and Power BI on Microsoft Fabric |
-| [**crypto-market-data-etl**](https://github.com/S2800-0/crypto-market-data-etl) | Live Binance and CoinGecko prices with data-quality and anomaly checks into PostgreSQL |
-
-### Orchestration, CI and observability
-
-| Project | What it does |
-|---|---|
-| [**retail-pulse-orchestration-platform**](https://github.com/S2800-0/retail-pulse-orchestration-platform) | One daily rollup run three ways: Airflow, a scheduled Kubernetes job, Looker Studio |
-| [**spark-monitoring-prometheus-grafana**](https://github.com/S2800-0/spark-monitoring-prometheus-grafana) | A Spark job monitored live with Prometheus and a ten-panel Grafana dashboard |
-| [**pipeline-observability-playbook**](https://github.com/S2800-0/pipeline-observability-playbook) | Observability design for a streaming pipeline, with a simulation that tests every alert |
-| [**pyspark-ci-github-actions**](https://github.com/S2800-0/pyspark-ci-github-actions) | PySpark unit tests run on every pull request with GitHub Actions |
-
-### Machine learning and AI
-
-| Project | What it does |
-|---|---|
-| [**mlflow-experiment-tracking**](https://github.com/S2800-0/mlflow-experiment-tracking) | Three training runs tracked in MLflow, best model picked by validation RMSE |
-| [**industrial-defect-detection**](https://github.com/S2800-0/industrial-defect-detection) | A custom CNN on NEU-DET with a Streamlit app for real-time inspection |
-| [**sign-language-bridge**](https://github.com/S2800-0/sign-language-bridge) | Bridging text to sign, and sign to text |
-| [**finwise-ai-finance-manager**](https://github.com/S2800-0/finwise-ai-finance-manager) | Flask and ML personal finance manager with predictions and an AI assistant |
-
-### Apps and more
-
-| Project | What it does |
-|---|---|
-| [**tarbya-attendance**](https://github.com/S2800-0/tarbya-attendance) | QR attendance for the Faculty of Education, Menoufia University |
-| [**datapulse**](https://github.com/S2800-0/datapulse) | Personal finance dashboard on Supabase (PostgreSQL) and Streamlit Cloud |
-| [**movie-database-nestjs**](https://github.com/S2800-0/movie-database-nestjs) | Full-stack movie database with Nest.js, TypeORM and PostgreSQL |
-| [**qt-spell-checker**](https://github.com/S2800-0/qt-spell-checker) | A spell checker in C++ and Qt |
-
----
 
 <div align="center">
 
