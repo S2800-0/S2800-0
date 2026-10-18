@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=24&pause=1400&color=5A4630&center=true&vCenter=true&width=700&lines=Traveling+through+time+and+data+streams...;Bigger+on+the+inside.;Building+agents+that+know+when+not+to+act.;Kafka+%E2%86%92+Spark+%E2%86%92+Insight.;Allons-y!)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-f5efe3?style=for-the-badge&logo=githubpages&logoColor=3b2c1a)](https://s2800-0.github.io/portfolio/)
-[![Talk](https://img.shields.io/badge/Watch%20the%20talk-f5efe3?style=for-the-badge&logo=youtube&logoColor=3b2c1a)](https://incident-commander-talk.vercel.app)
 <!-- LinkedIn: replace YOUR-LINKEDIN and remove the arrows to show it
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f5efe3?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 -->
