@@ -6,11 +6,11 @@
 
 <h2 align="center">✦ Selected Projects ✦</h2>
 <p align="center">
-<a href="https://github.com/incident-commander-lab/incident-commander"><img src="https://img.shields.io/badge/Incident_Commander-161b22?style=flat&logo=github&logoColor=ff5fd2" height="28" alt="Incident Commander" /></a><br/>
+<a href="https://github.com/incident-commander-lab/incident-commander"><img src="https://img.shields.io/badge/Incident_Commander-161b22?style=flat&logo=github&logoColor=ff5fd2" height="36" alt="Incident Commander" /></a><br/>
 An SRE agent that decides when <i>not</i> to act · 1st Place, ITIDA DevOps Day 2026
 <br/><br/>
-<a href="https://github.com/S2800-0/icvsp-prototype"><img src="https://img.shields.io/badge/ICVSP-161b22?style=flat&logo=github&logoColor=ff5fd2" height="28" alt="ICVSP" /></a><br/>
-Road-hazard warnings on the edge with a trust engine · mentored by Valeo engineers
+<a href="https://github.com/S2800-0/icvsp-prototype"><img src="https://img.shields.io/badge/ICVSP-161b22?style=flat&logo=github&logoColor=ff5fd2" height="36" alt="ICVSP" /></a><br/>
+Road-hazard warnings on the edge with a trust engine
 </p>
 <p align="center"><a href="https://github.com/S2800-0?tab=repositories"><img src="assets/icons/projects.png" width="24" alt="Projects" align="center" /> Explore my repositories ↗</a></p>
 
