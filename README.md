@@ -1,8 +1,5 @@
 <p align="center"><img src="assets/cover_tardis.gif" width="100%" alt="Pixel-art TARDIS time vortex cover" /></p>
 <p align="center"><img src="assets/neon_divider.gif" width="100%" alt="Neon divider" /></p>
-<h1 align="center">S2800-0 <sub> // SYSTEM ONLINE</sub></h1>
-<p align="center"><code>AI • DATA ENGINEERING • CLOUD • SOFTWARE</code></p>
-<p align="center">Building intelligent systems, data pipelines, and useful software.<br/>Engineering in this timeline. Exploring the next.</p>
 
 <h2 align="center">✦ Selected Projects ✦</h2>
 <p align="center">
