@@ -6,14 +6,13 @@
 
 <h2 align="center">✦ Selected Projects ✦</h2>
 <p align="center">
-<a href="https://github.com/incident-commander-lab/incident-commander"><img src="https://img.shields.io/badge/Incident_Commander-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="Incident Commander" /></a><br/><sub>An SRE agent that decides when <i>not</i> to act · 1st Place, ITIDA DevOps Day 2026</sub><br/><br/>
-<a href="https://github.com/S2800-0/icvsp-prototype"><img src="https://img.shields.io/badge/ICVSP-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="ICVSP" /></a><br/><sub>Road-hazard warnings on the edge with a trust engine · mentored by Valeo engineers</sub><br/><br/>
-<a href="https://github.com/S2800-0/kafka-spark-hive-ecommerce-pipeline"><img src="https://img.shields.io/badge/Real--time_Order_Pipeline-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="Real-time Order Pipeline" /></a><br/><sub>Kafka → Spark Streaming → Hive, replacing a 12-hour nightly batch</sub><br/><br/>
-<a href="https://github.com/S2800-0/spark-monitoring-prometheus-grafana"><img src="https://img.shields.io/badge/Spark_Monitoring-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="Spark Monitoring" /></a><br/><sub>A Spark cluster watched live by Prometheus and a 10-panel Grafana dashboard</sub><br/><br/>
-<a href="https://github.com/S2800-0/retail-pulse-orchestration-platform"><img src="https://img.shields.io/badge/RetailPulse_Orchestration-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="RetailPulse Orchestration" /></a><br/><sub>One daily rollup run three ways: Airflow, a Kubernetes CronJob, Looker Studio</sub><br/><br/>
-<a href="https://github.com/S2800-0/ecommerce-data-warehouse-aws"><img src="https://img.shields.io/badge/AWS_Data_Warehouse-161b22?style=flat&logo=github&logoColor=ff5fd2" height="26" alt="AWS Data Warehouse" /></a><br/><sub>Star-schema warehouse: Lambda ingestion, PySpark on Glue, S3, Athena</sub>
+<a href="https://github.com/incident-commander-lab/incident-commander"><img src="https://img.shields.io/badge/Incident_Commander-161b22?style=flat&logo=github&logoColor=ff5fd2" height="28" alt="Incident Commander" /></a><br/>
+An SRE agent that decides when <i>not</i> to act · 1st Place, ITIDA DevOps Day 2026
+<br/><br/>
+<a href="https://github.com/S2800-0/icvsp-prototype"><img src="https://img.shields.io/badge/ICVSP-161b22?style=flat&logo=github&logoColor=ff5fd2" height="28" alt="ICVSP" /></a><br/>
+Road-hazard warnings on the edge with a trust engine · mentored by Valeo engineers
 </p>
-<p align="center"><a href="https://github.com/S2800-0?tab=repositories"><sub>Explore all repositories ↗</sub></a></p>
+<p align="center"><a href="https://github.com/S2800-0?tab=repositories"><img src="assets/icons/projects.png" width="24" alt="Projects" align="center" /> Explore my repositories ↗</a></p>
 
 <h2 align="center">✦ Tech Stack ✦</h2>
 <p align="center"><sub>What I build with day to day.</sub></p>
