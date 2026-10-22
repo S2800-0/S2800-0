@@ -48,5 +48,5 @@ Road-hazard warnings on the edge with a trust engine
 <a href="https://www.linkedin.com/in/shahesta-salama-396566320/"><img src="assets/icons/linkedin.png" width="38" alt="LinkedIn" /></a>
 </p>
 <p align="center"><sub>GitHub · Email · LinkedIn</sub></p>
-<p align="center"><img src="assets/tardis_space.gif" width="100%" alt="The TARDIS drifting through space" /></p>
+<p align="center"><img src="assets/tardis_space.gif" width="420" alt="The TARDIS drifting through space" /></p>
 <p align="center"><img src="assets/signature_footer.png" width="100%" alt="S2800-0: signal from the time vortex" /></p>
